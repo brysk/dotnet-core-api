@@ -1,4 +1,8 @@
 version: 2.1
+
+orbs:
+  react-native: react-native-community/react-native@3.0.1
+
 jobs:
   build:
     docker: 
